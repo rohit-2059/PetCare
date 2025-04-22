@@ -1,0 +1,15 @@
+{
+  "name": "vet-shops-locator",
+  "version": "1.0.0",
+  "description": "Veterinary Shops Locator using Foursquare API",
+  "main": "backend_server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend_server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1",
+    "dotenv": "^16.0.3"
+  }
+} 
